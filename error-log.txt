@@ -3,3 +3,22 @@ Unknow error
 Unknow error
 D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from customers' at line 1 in file C:\wamp64\www\mubi\select-customer.php at line 12
 D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from customers' at line 1 in file C:\wamp64\www\mubi\select-customer.php at line 12
+D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '', '16 olu akerele', 'ikeja', 'lagos', '01')' at line 1 in file C:\wamp64\www\phpclassdb\create-customer.php at line 18
+D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':id' at line 1 in file C:\wamp64\www\phpclassdb\delete-customer.php at line 14
+D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':id' at line 1 in file C:\wamp64\www\phpclassdb\delete-customer.php at line 14
+D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':id' at line 1 in file C:\wamp64\www\phpclassdb\delete-customer.php at line 13
+D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':id' at line 1 in file C:\wamp64\www\phpclassdb\delete-customer.php at line 13
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 19
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 19
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 18
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 18
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3  in file C:\wamp64\www\phpclassdb\delete-customer.php at line 17
+D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in file C:\wamp64\www\phpclassdb\delete-customer.php at line 14
