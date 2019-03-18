@@ -1,4 +1,7 @@
 <?php
+	$title = "Select Customer";
+	require_once "./template/header.php";
+	require_once "./template/meun.php";
 	require_once 'connection.php';
 	$query = "select * from customers";
 	$result = mysqli_query($connection, $query);
@@ -42,3 +45,6 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 	</body>
 </html>
+<?php
+require_once "./template/footer.php";
+?>

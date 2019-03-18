@@ -2,4 +2,3 @@ Unknow errorUnknow errorUnknow error
 Unknow error
 Unknow error
 D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from customers' at line 1 in file C:\wamp64\www\mubi\select-customer.php at line 12
-D3 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from customers' at line 1 in file C:\wamp64\www\mubi\select-customer.php at line 12
