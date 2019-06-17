@@ -1,0 +1,3 @@
+100: Db Server down ::1 1:38 pm 17th June 2019
+100: Db Server down ::1 1:38 pm 17th June 2019
+300: Query Error Data too long for column 'address' at row 1::1 2:16 pm 17th June 2019
