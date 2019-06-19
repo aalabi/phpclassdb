@@ -1,3 +1,6 @@
 100: Db Server down ::1 1:38 pm 17th June 2019
 100: Db Server down ::1 1:38 pm 17th June 2019
 300: Query Error Data too long for column 'address' at row 1::1 2:16 pm 17th June 2019
+300: Query Error Duplicate entry 'info@alabiansolutions.com' for key 'email'::1 11:33 am 19th June 2019
+300: Query Error Duplicate entry 'info@alabiansolutions.com' for key 'email'::1 11:36 am 19th June 2019
+300: Query Error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOW())' at line 2::1 12:59 pm 19th June 2019

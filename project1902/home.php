@@ -1,18 +1,7 @@
 <?php
 	require_once 'config.php';
-	$title = "System Error";
-	$icon = "fa-warning";
-	
-	$msg = "Error 000";
-	if(isset($_SESSION['error'])){
-		foreach ($_SESSION['error'] as $key => $value) {
-			$msg = "Error $key";
-		}
-		@mail('awaritomachris@gmail.com', "Error Message", "$key: $value");
-		$file = fopen("error.txt", "a+");
-		fputs($file, "$key: $value". $_SERVER['REMOTE_ADDR'] ." ". date("g:i a jS F Y").PHP_EOL);
-	}
-	
+	$title = "Home";
+	$icon = "fa-home";
 	require_once 'templates/head.php';
 ?>
 <body>
@@ -23,7 +12,7 @@
     <div class="content">
       <div class="container-fluid">
         <div class="row">
-					<?php echo $msg; ?>
+					Home content coming soon
         </div>
       </div>
     </div>
